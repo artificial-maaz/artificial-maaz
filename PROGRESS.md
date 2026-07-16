@@ -9,3 +9,4 @@
 2026-07-16T14:28:00  hero: door ajar, warm light spill
 2026-07-16T15:05:00  hero: persian carpet + cushions
 2026-07-16T16:42:00  hero: fire pit + bistro chairs
+2026-07-16T18:19:00  hero: desk, glowing laptop, coffee
