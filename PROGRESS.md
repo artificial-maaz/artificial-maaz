@@ -8,3 +8,4 @@
 2026-07-16T12:51:00  hero: 3d room block + metal door
 2026-07-16T14:28:00  hero: door ajar, warm light spill
 2026-07-16T15:05:00  hero: persian carpet + cushions
+2026-07-16T16:42:00  hero: fire pit + bistro chairs
