@@ -5,3 +5,4 @@
 2026-07-15T19:28:00  hero: light up the islamabad skyline
 2026-07-16T10:37:00  hero: faisal mosque landmark
 2026-07-16T11:14:00  hero: roof parapet + perimeter wall
+2026-07-16T12:51:00  hero: 3d room block + metal door
