@@ -12,3 +12,4 @@
 2026-07-16T18:19:00  hero: desk, glowing laptop, coffee
 2026-07-16T19:56:00  hero: string lights on the wall
 2026-07-16T20:33:00  hero: tune the indigo palette
+2026-07-17T10:37:00  hero: SMIL animations (twinkle, flame, flicker)
