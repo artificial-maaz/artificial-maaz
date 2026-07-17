@@ -17,3 +17,4 @@
 2026-07-17T14:51:00  readme: scaffold sections
 2026-07-17T16:28:00  readme: about (from linkedin voice)
 2026-07-17T18:05:00  readme: stack block
+2026-07-17T20:42:00  readme: projects — dormdata headline
