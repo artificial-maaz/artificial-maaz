@@ -15,3 +15,4 @@
 2026-07-17T10:37:00  hero: SMIL animations (twinkle, flame, flicker)
 2026-07-17T12:14:00  hero: polish edges + viewbox
 2026-07-17T14:51:00  readme: scaffold sections
+2026-07-17T16:28:00  readme: about (from linkedin voice)
