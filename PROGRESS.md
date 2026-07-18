@@ -29,3 +29,4 @@
 2026-07-18T18:33:00  chore: wire assets into readme
 2026-07-18T19:10:00  chore: tidy workflows
 2026-07-18T20:47:00  docs: setup notes
+2026-07-18T21:24:00  polish: spacing + mono headers
