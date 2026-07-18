@@ -22,3 +22,4 @@
 2026-07-18T11:14:00  readme: reorder — stats above projects
 2026-07-18T12:51:00  stats: graphql query for contributions
 2026-07-18T13:28:00  stats: streak + language aggregation
+2026-07-18T14:05:00  stats: render indigo svg cards
