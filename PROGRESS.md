@@ -39,3 +39,4 @@
 2026-07-20T14:28:00  hero: roof parapet + perimeter wall
 2026-07-20T16:05:00  hero: 3d room block + metal door
 2026-07-20T17:42:00  hero: door ajar, warm light spill
+2026-07-20T19:19:00  hero: persian carpet + cushions
