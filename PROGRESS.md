@@ -51,3 +51,4 @@
 2026-07-21T15:56:00  readme: stack block
 2026-07-21T16:33:00  readme: projects — dormdata headline
 2026-07-21T17:10:00  readme: connect + epigraph
+2026-07-21T18:47:00  readme: reorder — stats above projects
