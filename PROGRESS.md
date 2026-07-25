@@ -85,3 +85,4 @@
 2026-07-25T13:42:00  readme: connect + epigraph
 2026-07-25T14:19:00  readme: reorder — stats above projects
 2026-07-25T15:56:00  stats: graphql query for contributions
+2026-07-25T16:33:00  stats: streak + language aggregation
