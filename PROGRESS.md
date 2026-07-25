@@ -90,3 +90,4 @@
 2026-07-25T17:47:00  stats: daily github action
 2026-07-25T18:24:00  snake: contribution-grid action
 2026-07-25T19:01:00  snake: dark palette + purple snake
+2026-07-25T20:38:00  chore: wire assets into readme
