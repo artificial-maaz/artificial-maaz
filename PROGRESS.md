@@ -91,3 +91,4 @@
 2026-07-25T18:24:00  snake: contribution-grid action
 2026-07-25T19:01:00  snake: dark palette + purple snake
 2026-07-25T20:38:00  chore: wire assets into readme
+2026-07-25T21:15:00  chore: tidy workflows
