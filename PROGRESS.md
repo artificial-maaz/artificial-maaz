@@ -94,3 +94,4 @@
 2026-07-25T21:15:00  chore: tidy workflows
 2026-07-26T10:37:00  docs: setup notes
 2026-07-26T12:14:00  polish: spacing + mono headers
+2026-07-26T14:51:00  polish: alt text + accessibility
