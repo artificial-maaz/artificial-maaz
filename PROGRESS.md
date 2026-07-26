@@ -97,3 +97,4 @@
 2026-07-26T14:51:00  polish: alt text + accessibility
 2026-07-26T16:28:00  init profile repo
 2026-07-26T18:05:00  add rooftop hero — night scene base
+2026-07-26T20:42:00  hero: margalla hills + crescent moon
