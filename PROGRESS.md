@@ -99,3 +99,4 @@
 2026-07-26T18:05:00  add rooftop hero — night scene base
 2026-07-26T20:42:00  hero: margalla hills + crescent moon
 2026-07-27T10:37:00  hero: light up the islamabad skyline
+2026-07-27T11:14:00  hero: faisal mosque landmark
