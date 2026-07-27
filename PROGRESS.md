@@ -100,3 +100,4 @@
 2026-07-26T20:42:00  hero: margalla hills + crescent moon
 2026-07-27T10:37:00  hero: light up the islamabad skyline
 2026-07-27T11:14:00  hero: faisal mosque landmark
+2026-07-27T12:51:00  hero: roof parapet + perimeter wall
