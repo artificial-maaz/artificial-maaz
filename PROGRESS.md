@@ -112,3 +112,4 @@
 2026-07-28T11:37:00  hero: polish edges + viewbox
 2026-07-28T14:14:00  readme: scaffold sections
 2026-07-28T16:51:00  readme: about (from linkedin voice)
+2026-07-28T19:28:00  readme: stack block
