@@ -109,3 +109,4 @@
 2026-07-27T18:33:00  hero: string lights on the wall
 2026-07-27T19:10:00  hero: tune the indigo palette
 2026-07-27T20:47:00  hero: SMIL animations (twinkle, flame, flicker)
+2026-07-28T11:37:00  hero: polish edges + viewbox
