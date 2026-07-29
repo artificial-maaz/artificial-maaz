@@ -114,3 +114,4 @@
 2026-07-28T16:51:00  readme: about (from linkedin voice)
 2026-07-28T19:28:00  readme: stack block
 2026-07-29T09:37:00  readme: projects — dormdata headline
+2026-07-29T10:14:00  readme: connect + epigraph
