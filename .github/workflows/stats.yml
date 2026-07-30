@@ -11,8 +11,8 @@ permissions:
   contents: write
 
 concurrency:
-  group: stats
-  cancel-in-progress: true
+  group: profile-assets
+  cancel-in-progress: false
 
 jobs:
   stats:
