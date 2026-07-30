@@ -134,3 +134,4 @@
 2026-07-30T16:42:00  hero: faisal mosque landmark
 2026-07-30T18:19:00  hero: roof parapet + perimeter wall
 2026-07-30T19:56:00  hero: 3d room block + metal door
+2026-07-30T20:33:00  hero: door ajar, warm light spill
