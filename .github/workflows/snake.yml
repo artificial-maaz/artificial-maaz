@@ -11,8 +11,8 @@ permissions:
   contents: write
 
 concurrency:
-  group: snake
-  cancel-in-progress: true
+  group: profile-assets
+  cancel-in-progress: false
 
 jobs:
   snake:
