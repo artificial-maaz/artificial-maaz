@@ -12,7 +12,7 @@
 
 ### `// about`
 
-hi, i'm **maaz**. i'm reading computer science at **fast nuces** — but my journey didn't start with a keyboard, it started with people.
+hi, i'm **maaz**. i'm pursuing computer science at **FAST** — but my journey didn't start with a keyboard, it started with people.
 
 i channel a strong entrepreneurial background into engineering: researching real market demand, locking in to build the software i actually believe in, and presenting it at tech conferences. off-screen i shoot cinematography — it keeps my approach to systems artistic.
 
