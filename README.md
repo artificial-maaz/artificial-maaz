@@ -79,6 +79,6 @@ an interactive site for the people of a local community.
 
 <br/>
 
-<sub>the intellect is only acquired in order to build things unbuilt.</sub>
+<sub>I'll drop a fire quote here soon.</sub>
 
 </div>
