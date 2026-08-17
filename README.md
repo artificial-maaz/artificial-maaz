@@ -75,7 +75,7 @@
 
 ---
 
-<p align="center"><samp>// reach out</samp></p>
+<p align="center"><samp>// connect</samp></p>
 
 <div align="center">
 
