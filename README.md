@@ -4,7 +4,7 @@
 
 <br/>
 
-`maaz hussain` · `cs @ fast nuces` · `islamabad, pk`
+`maaz hussain` · `cs @ fast` · `islamabad, pk`
 
 </div>
 
