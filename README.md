@@ -8,9 +8,9 @@
 
 </div>
 
-<br/>
+---
 
-### `// about`
+<h3 align="center"><code>// about</code></h3>
 
 hi, i'm **maaz**. i'm pursuing computer science at **FAST** — but my journey didn't start with a keyboard, it started with people.
 
@@ -18,54 +18,52 @@ i channel a strong entrepreneurial background into engineering: researching real
 
 always open to connect with like-minded homo sapiens from around the planet.
 
-<br/>
+---
 
-### `// languages`
+<h3 align="center"><code>// languages</code></h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C++-000000?style=flat&labelColor=000000&logo=cplusplus&logoColor=00599C" alt="C++" />
-<img src="https://img.shields.io/badge/C-000000?style=flat&labelColor=000000&logo=c&logoColor=A8B9CC" alt="C" />
-<img src="https://img.shields.io/badge/Java-000000?style=flat&labelColor=000000&logo=openjdk&logoColor=ED8B00" alt="Java" />
-<img src="https://img.shields.io/badge/Python-000000?style=flat&labelColor=000000&logo=python&logoColor=3776AB" alt="Python" />
-<img src="https://img.shields.io/badge/TypeScript-000000?style=flat&labelColor=000000&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=flat&labelColor=000000&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/C++-000000?style=flat&labelColor=000000&logo=cplusplus&logoColor=c9d1d9" alt="C++" />
+<img src="https://img.shields.io/badge/C-000000?style=flat&labelColor=000000&logo=c&logoColor=c9d1d9" alt="C" />
+<img src="https://img.shields.io/badge/Java-000000?style=flat&labelColor=000000&logo=openjdk&logoColor=c9d1d9" alt="Java" />
+<img src="https://img.shields.io/badge/Python-000000?style=flat&labelColor=000000&logo=python&logoColor=c9d1d9" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat&labelColor=000000&logo=typescript&logoColor=c9d1d9" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat&labelColor=000000&logo=javascript&logoColor=c9d1d9" alt="JavaScript" />
 <img src="https://img.shields.io/badge/SQL-000000?style=flat&labelColor=000000" alt="SQL" />
-<img src="https://img.shields.io/badge/Solidity-000000?style=flat&labelColor=000000&logo=solidity&logoColor=A6A9AA" alt="Solidity" />
+<img src="https://img.shields.io/badge/Solidity-000000?style=flat&labelColor=000000&logo=solidity&logoColor=c9d1d9" alt="Solidity" />
 <img src="https://img.shields.io/badge/x86_Assembly-000000?style=flat&labelColor=000000" alt="x86 Assembly" />
 
 </div>
 
-<br/>
-
-### `// tools`
+<h3 align="center"><code>// tools</code></h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&labelColor=000000&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-000000?style=flat&labelColor=000000&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Vite-000000?style=flat&labelColor=000000&logo=vite&logoColor=646CFF" alt="Vite" />
-<img src="https://img.shields.io/badge/Tailwind-000000?style=flat&labelColor=000000&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind" />
-<img src="https://img.shields.io/badge/Node.js-000000?style=flat&labelColor=000000&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-<img src="https://img.shields.io/badge/FastAPI-000000?style=flat&labelColor=000000&logo=fastapi&logoColor=009688" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat&labelColor=000000&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&labelColor=000000&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Drizzle-000000?style=flat&labelColor=000000&logo=drizzle&logoColor=C5F74F" alt="Drizzle" />
-<img src="https://img.shields.io/badge/Redis-000000?style=flat&labelColor=000000&logo=redis&logoColor=FF4438" alt="Redis" />
-<img src="https://img.shields.io/badge/k6-000000?style=flat&labelColor=000000&logo=k6&logoColor=7D64FF" alt="k6" />
-<img src="https://img.shields.io/badge/Docker-000000?style=flat&labelColor=000000&logo=docker&logoColor=2496ED" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-000000?style=flat&labelColor=000000&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&labelColor=000000&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
-<img src="https://img.shields.io/badge/Firebase-000000?style=flat&labelColor=000000&logo=firebase&logoColor=DD2C00" alt="Firebase" />
-<img src="https://img.shields.io/badge/PySide6-000000?style=flat&labelColor=000000&logo=qt&logoColor=41CD52" alt="PySide6" />
-<img src="https://img.shields.io/badge/Git-000000?style=flat&labelColor=000000&logo=git&logoColor=F05032" alt="Git" />
-<img src="https://img.shields.io/badge/Linux-000000?style=flat&labelColor=000000&logo=linux&logoColor=FCC624" alt="Linux" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&labelColor=000000&logo=nextdotjs&logoColor=c9d1d9" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-000000?style=flat&labelColor=000000&logo=react&logoColor=c9d1d9" alt="React" />
+<img src="https://img.shields.io/badge/Vite-000000?style=flat&labelColor=000000&logo=vite&logoColor=c9d1d9" alt="Vite" />
+<img src="https://img.shields.io/badge/Tailwind-000000?style=flat&labelColor=000000&logo=tailwindcss&logoColor=c9d1d9" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=flat&labelColor=000000&logo=nodedotjs&logoColor=c9d1d9" alt="Node.js" />
+<img src="https://img.shields.io/badge/FastAPI-000000?style=flat&labelColor=000000&logo=fastapi&logoColor=c9d1d9" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat&labelColor=000000&logo=springboot&logoColor=c9d1d9" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&labelColor=000000&logo=postgresql&logoColor=c9d1d9" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Drizzle-000000?style=flat&labelColor=000000&logo=drizzle&logoColor=c9d1d9" alt="Drizzle" />
+<img src="https://img.shields.io/badge/Redis-000000?style=flat&labelColor=000000&logo=redis&logoColor=c9d1d9" alt="Redis" />
+<img src="https://img.shields.io/badge/k6-000000?style=flat&labelColor=000000&logo=k6&logoColor=c9d1d9" alt="k6" />
+<img src="https://img.shields.io/badge/Docker-000000?style=flat&labelColor=000000&logo=docker&logoColor=c9d1d9" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-000000?style=flat&labelColor=000000&logo=kubernetes&logoColor=c9d1d9" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&labelColor=000000&logo=vercel&logoColor=c9d1d9" alt="Vercel" />
+<img src="https://img.shields.io/badge/Firebase-000000?style=flat&labelColor=000000&logo=firebase&logoColor=c9d1d9" alt="Firebase" />
+<img src="https://img.shields.io/badge/PySide6-000000?style=flat&labelColor=000000&logo=qt&logoColor=c9d1d9" alt="PySide6" />
+<img src="https://img.shields.io/badge/Git-000000?style=flat&labelColor=000000&logo=git&logoColor=c9d1d9" alt="Git" />
+<img src="https://img.shields.io/badge/Linux-000000?style=flat&labelColor=000000&logo=linux&logoColor=c9d1d9" alt="Linux" />
 
 </div>
 
-<br/>
+---
 
-### `// stats`  <sub>↻ updates daily</sub>
+<h3 align="center"><code>// stats</code>  <sub>↻ updates daily</sub></h3>
 
 <div align="center">
 
@@ -75,9 +73,9 @@ always open to connect with like-minded homo sapiens from around the planet.
 
 </div>
 
-<br/>
+---
 
-### `// activity`
+<h3 align="center"><code>// activity</code></h3>
 
 <div align="center">
 
@@ -85,9 +83,9 @@ always open to connect with like-minded homo sapiens from around the planet.
 
 </div>
 
-<br/>
+---
 
-### `// reach out`
+<h3 align="center"><code>// reach out</code></h3>
 
 <div align="center">
 
