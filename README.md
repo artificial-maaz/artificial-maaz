@@ -83,6 +83,5 @@
 
 <br/>
 
-<sub>I'll drop a fire quote here soon.</sub>
 
 </div>
