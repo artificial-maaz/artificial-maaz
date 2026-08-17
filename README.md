@@ -4,23 +4,13 @@
 
 <br/>
 
-`maaz hussain` · `cs @ fast` · `islamabad, pk`
+<samp>maaz hussain &nbsp;·&nbsp; cs @ fast nuces &nbsp;·&nbsp; islamabad, pk</samp>
 
 </div>
 
 ---
 
-<h3 align="center"><code>// about</code></h3>
-
-hi, i'm **maaz**. i'm pursuing computer science at **FAST** — but my journey didn't start with a keyboard, it started with people.
-
-i channel a strong entrepreneurial background into engineering: researching real market demand, locking in to build the software i actually believe in, and presenting it at tech conferences. i run a motorcycle group as founder and ceo, and i wrote the erp it runs on. off-screen i shoot cinematography — it keeps my approach to systems artistic.
-
-always open to connect with like-minded homo sapiens from around the planet.
-
----
-
-<h3 align="center"><code>// languages</code></h3>
+<p align="center"><samp>// languages</samp></p>
 
 <div align="center">
 
@@ -36,7 +26,7 @@ always open to connect with like-minded homo sapiens from around the planet.
 
 </div>
 
-<h3 align="center"><code>// tools</code></h3>
+<p align="center"><samp>// tools</samp></p>
 
 <div align="center">
 
@@ -63,7 +53,7 @@ always open to connect with like-minded homo sapiens from around the planet.
 
 ---
 
-<h3 align="center"><code>// stats</code>  <sub>↻ updates daily</sub></h3>
+<p align="center"><samp>// stats</samp></p>
 
 <div align="center">
 
@@ -75,7 +65,7 @@ always open to connect with like-minded homo sapiens from around the planet.
 
 ---
 
-<h3 align="center"><code>// activity</code></h3>
+<p align="center"><samp>// activity</samp></p>
 
 <div align="center">
 
@@ -85,7 +75,7 @@ always open to connect with like-minded homo sapiens from around the planet.
 
 ---
 
-<h3 align="center"><code>// reach out</code></h3>
+<p align="center"><samp>// reach out</samp></p>
 
 <div align="center">
 
