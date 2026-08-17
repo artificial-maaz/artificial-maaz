@@ -20,50 +20,46 @@ always open to connect with like-minded homo sapiens from around the planet.
 
 <br/>
 
-### `// stack`
+### `// languages`
 
 <div align="center">
 
-<sub>`languages`</sub>
+<img src="https://img.shields.io/badge/C++-000000?style=flat&labelColor=000000&logo=cplusplus&logoColor=00599C" alt="C++" />
+<img src="https://img.shields.io/badge/C-000000?style=flat&labelColor=000000&logo=c&logoColor=A8B9CC" alt="C" />
+<img src="https://img.shields.io/badge/Java-000000?style=flat&labelColor=000000&logo=openjdk&logoColor=ED8B00" alt="Java" />
+<img src="https://img.shields.io/badge/Python-000000?style=flat&labelColor=000000&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat&labelColor=000000&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat&labelColor=000000&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/SQL-000000?style=flat&labelColor=000000" alt="SQL" />
+<img src="https://img.shields.io/badge/Solidity-000000?style=flat&labelColor=000000&logo=solidity&logoColor=A6A9AA" alt="Solidity" />
+<img src="https://img.shields.io/badge/x86_Assembly-000000?style=flat&labelColor=000000" alt="x86 Assembly" />
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Assembly](https://img.shields.io/badge/x86_Assembly-654FF0?style=for-the-badge&logoColor=white)
+</div>
 
-<sub>`web`</sub>
+<br/>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+### `// tools`
 
-<sub>`services & data`</sub>
+<div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-
-<sub>`performance & infra`</sub>
-
-![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-
-<sub>`desktop & tooling`</sub>
-
-![Qt](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&labelColor=000000&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-000000?style=flat&labelColor=000000&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Vite-000000?style=flat&labelColor=000000&logo=vite&logoColor=646CFF" alt="Vite" />
+<img src="https://img.shields.io/badge/Tailwind-000000?style=flat&labelColor=000000&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=flat&labelColor=000000&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+<img src="https://img.shields.io/badge/FastAPI-000000?style=flat&labelColor=000000&logo=fastapi&logoColor=009688" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat&labelColor=000000&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&labelColor=000000&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Drizzle-000000?style=flat&labelColor=000000&logo=drizzle&logoColor=C5F74F" alt="Drizzle" />
+<img src="https://img.shields.io/badge/Redis-000000?style=flat&labelColor=000000&logo=redis&logoColor=FF4438" alt="Redis" />
+<img src="https://img.shields.io/badge/k6-000000?style=flat&labelColor=000000&logo=k6&logoColor=7D64FF" alt="k6" />
+<img src="https://img.shields.io/badge/Docker-000000?style=flat&labelColor=000000&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-000000?style=flat&labelColor=000000&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&labelColor=000000&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
+<img src="https://img.shields.io/badge/Firebase-000000?style=flat&labelColor=000000&logo=firebase&logoColor=DD2C00" alt="Firebase" />
+<img src="https://img.shields.io/badge/PySide6-000000?style=flat&labelColor=000000&logo=qt&logoColor=41CD52" alt="PySide6" />
+<img src="https://img.shields.io/badge/Git-000000?style=flat&labelColor=000000&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/Linux-000000?style=flat&labelColor=000000&logo=linux&logoColor=FCC624" alt="Linux" />
 
 </div>
 
@@ -91,41 +87,11 @@ always open to connect with like-minded homo sapiens from around the planet.
 
 <br/>
 
-### `// projects`
-
-**[dbms](https://github.com/artificial-maaz/DBMS)** &nbsp;·&nbsp; `next.js` `drizzle` `postgres` &nbsp;·&nbsp; *in production*
-a full erp running a real motorcycle dealership — inventory, customers, visitors, branches, billing, mail. 24 versioned migrations, better-auth sessions, cron-driven jobs, an owner-facing handover and a go-live checklist. **445 commits, written solo, a live business depends on it.**
-
-**[dormdata-sandbox](https://github.com/artificial-maaz/dormdata-sandbox)** &nbsp;·&nbsp; `k6` `node` `redis` &nbsp;·&nbsp; *internship*
-platform performance work on a production code-execution sandbox. derived the throughput ceiling from source, proved it over a 13-run load matrix, then replaced depth-based queue limits with **admission control on predicted wait**. goodput `9.8 → 28.7 req/s`, p99 `32.4s → 2.0s`. the queue cap went *down*.
-
-**[proxenos](https://github.com/artificial-maaz/proxenos)** &nbsp;·&nbsp; `spring boot` `solidity` `neat` `javafx`
-b2b trade orchestration — deterministic financial ledgers reconciled with probabilistic logistics telemetry. smart-contract escrow released on dual gps + on-chain verification. co-authored the 2,830-line srd, the domain model and 16 sequence diagrams.
-
-**[baghdad reimagined](https://github.com/artificial-maaz/Baghdad-Reimagined)** &nbsp;·&nbsp; `python` `fastapi` `react`
-an ai city planner that generates a mathematically valid 112-sector city from constraints alone — min-conflicts for layout, mst vs simulated annealing for road cost, a genetic algorithm for emergency routing. i wrote the challenge 1 & 2 solvers.
-
-**[railway control center](https://github.com/artificial-maaz/Railway-control-center)** &nbsp;·&nbsp; `c++` `pyside6`
-railway ops simulator over five hand-written data structures — avl tree, doubly linked list, graph + dijkstra, bst/hash hybrid, action log. snapshot-based undo keeps all five consistent. the ui visualises each structure as it mutates.
-
-**[super mario](https://github.com/artificial-maaz/Super_Mario_in_asm)** &nbsp;·&nbsp; `x86 masm` `irvine32`
-a full console platformer written entirely in assembly — custom physics engine, dynamic level loading from text, ai-driven enemies.
-
-**galaxy wars** &nbsp;·&nbsp; `c++` `sfml`
-a 2d space shooter with template-based object pooling, polymorphic entities, custom exception handling and three difficulty tiers.
-
-**community website** &nbsp;·&nbsp; `full-stack`
-an interactive site for the people of a local community.
-
-<br/>
-
-### `// connect`
+### `// reach out`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maazhussainfast)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maazhussain.work@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artificial-maaz)
+[**github**](https://github.com/artificial-maaz) &nbsp;·&nbsp; [**email**](mailto:maazhussain.work@gmail.com) &nbsp;·&nbsp; [**linkedin**](https://www.linkedin.com/in/maazhussainfast)
 
 <br/>
 
