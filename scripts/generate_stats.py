@@ -12,6 +12,7 @@ Writes: assets/stats-contrib.svg, assets/stats-langs.svg
 """
 import os
 import json
+import math
 import html
 import urllib.request
 
@@ -92,6 +93,7 @@ def compute(user):
 
 
 FONT = "ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+SURFACE = "#0e1430"
 
 
 def card_open(w, h):
@@ -99,7 +101,7 @@ def card_open(w, h):
         f'<svg width="{w}" height="{h}" viewBox="0 0 {w} {h}" '
         f'xmlns="http://www.w3.org/2000/svg" font-family="{FONT}">'
         f'<rect x="0.5" y="0.5" width="{w-1}" height="{h-1}" rx="10" '
-        f'fill="#0e1430" stroke="#26305a"/>'
+        f'fill="{SURFACE}" stroke="#26305a"/>'
     )
 
 
@@ -120,18 +122,53 @@ def stats_contrib(s):
     return "".join(svg)
 
 
+def _pt(cx, cy, r, a):
+    return f"{cx + r*math.cos(a):.2f} {cy + r*math.sin(a):.2f}"
+
+def _wedge(cx, cy, ro, ri, a0, a1):
+    large = 1 if (a1 - a0) > math.pi else 0
+    return (f'M{_pt(cx,cy,ro,a0)} A{ro} {ro} 0 {large} 1 {_pt(cx,cy,ro,a1)} '
+            f'L{_pt(cx,cy,ri,a1)} A{ri} {ri} 0 {large} 0 {_pt(cx,cy,ri,a0)} Z')
+
 def stats_langs(s):
     w, h = 300, 150
     svg = [card_open(w, h)]
-    svg.append('<text x="20" y="30" font-size="12" fill="#8b9ad6">most used languages</text>')
-    y = 50
-    for name, _size, pct, color in s["langs"]:
-        bar = max(4, int(2.4 * pct))
-        svg.append(f'<text x="20" y="{y+8}" font-size="11" fill="#adbad6">{html.escape(name.lower())}</text>')
-        svg.append(f'<rect x="112" y="{y}" width="150" height="7" rx="3" fill="#1b2340"/>')
-        svg.append(f'<rect x="112" y="{y}" width="{bar}" height="7" rx="3" fill="{color}"/>')
-        svg.append(f'<text x="280" y="{y+8}" font-size="10" fill="#8b9ad6" text-anchor="end">{pct:.0f}%</text>')
-        y += 16
+    svg.append('<text x="20" y="26" font-size="12" fill="#8b9ad6">most used languages</text>')
+
+    langs = s["langs"]
+    cx, cy, ro, ri = 64, 88, 40, 25
+    total = sum(p for _n, _sz, p, _c in langs) or 100.0
+
+    a = -math.pi / 2                       # start at 12 o'clock
+    for name, _sz, pct, color in langs:
+        sweep = 2 * math.pi * (pct / total)
+        if sweep <= 0:
+            continue
+        if sweep >= 2 * math.pi - 1e-6:    # single language -> full ring
+            svg.append(f'<circle cx="{cx}" cy="{cy}" r="{(ro+ri)/2}" fill="none" '
+                       f'stroke="{color}" stroke-width="{ro-ri}"/>')
+            break
+        svg.append(f'<path d="{_wedge(cx,cy,ro,ri,a,a+sweep)}" fill="{color}" '
+                   f'stroke="{SURFACE}" stroke-width="2" stroke-linejoin="round"/>')
+        a += sweep
+
+    # hero: the leading language sits in the hole
+    if langs:
+        top, _sz, tpct, _c = langs[0]
+        svg.append(f'<text x="{cx}" y="{cy-1}" font-size="14" font-weight="700" fill="#e6ebff" '
+                   f'text-anchor="middle">{tpct:.0f}%</text>')
+        svg.append(f'<text x="{cx}" y="{cy+12}" font-size="8" fill="#8b9ad6" '
+                   f'text-anchor="middle">{html.escape(top.lower())}</text>')
+
+    # legend — identity is never colour alone
+    y = 46
+    for name, _sz, pct, color in langs:
+        svg.append(f'<rect x="124" y="{y-7}" width="8" height="8" rx="2" fill="{color}"/>')
+        svg.append(f'<text x="139" y="{y}" font-size="10" fill="#adbad6">{html.escape(name.lower())}</text>')
+        svg.append(f'<text x="282" y="{y}" font-size="10" font-weight="700" fill="#e6ebff" '
+                   f'text-anchor="end">{pct:.0f}%</text>')
+        y += 17
+
     svg.append("</svg>")
     return "".join(svg)
 
