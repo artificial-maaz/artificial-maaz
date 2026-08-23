@@ -4,7 +4,7 @@
 
 <br/>
 
-<samp>maaz hussain &nbsp;·&nbsp; cs @ fast &nbsp;·&nbsp; islamabad, pk</samp>
+<samp>maaz hussain &nbsp;·&nbsp; cs @ fast &nbsp;·&nbsp; islamabad</samp>
 
 </div>
 
