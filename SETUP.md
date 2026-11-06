@@ -15,26 +15,13 @@ scripts/
 .github/workflows/
   stats.yml             daily: refresh stat cards
   snake.yml             daily: refresh the contribution-grid snake
-fill-grid.sh            one-time: spread the build across Jul 15-30
 ```
 
 ## 1. create the repo
 On GitHub: **New repository** → name it `artificial-maaz` (must match your username),
 Public, **do not** add a README. Clone it locally and copy all these files in.
 
-## 2. fill the contribution grid (one time)
-```bash
-bash fill-grid.sh
-git remote add origin git@github.com:artificial-maaz/artificial-maaz.git
-git push -u origin main
-```
-This makes ~136 real commits dated across **Jul 15-30**, mixed per day.
-
-> The squares only colour in if the author email in `fill-grid.sh`
-> (`maazhussain.work@gmail.com`) is **added and verified** on your GitHub account:
-> Settings → Emails. Change the email in the script if you use a different one.
-
-## 3. turn on the daily actions
+## 2. turn on the daily actions
 Repo → **Settings → Actions → General** → allow workflows, and under
 **Workflow permissions** choose **Read and write**.
 Then **Actions** tab → run `stats` and `snake` once via *Run workflow*.
@@ -48,4 +35,3 @@ repo secret named **`STATS_TOKEN`**. The stats workflow picks it up automaticall
 ## notes
 - All graphics are self-owned SVG (no third-party image services), so nothing
   can rate-limit or go dark. Animations use SMIL, which renders in GitHub READMEs.
-- `PROGRESS.md` is a build log the fill script writes; harmless, delete anytime.
